@@ -21,6 +21,7 @@ Yearning for creative expression, I've dabbled in various programming languages 
 ## 🌱 Currently Learning
 
 - Advanced algorithms and data structures
+- Industrial automation
 - Low-level programming languages
 - Back to basics on Computer Science
 
